@@ -1,10 +1,7 @@
-dist
 .DS_Store
+dist
 node_modules
-coverage
-temp
-explorations
-TODOs.md
+
 *.log
 
 # IntelliJ project files
